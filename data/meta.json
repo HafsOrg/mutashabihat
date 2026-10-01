@@ -1,0 +1,64 @@
+{
+ "schema_version": 1,
+ "counts": {
+  "links": 6036,
+  "links_by_confidence": {
+   "high": 1457,
+   "medium": 2874,
+   "low": 1526,
+   "unverified": 179
+  },
+  "rejected": 608,
+  "phrases": 814,
+  "blocks": 43,
+  "identical_groups": 98,
+  "ayahs_with_a_link": 3171
+ },
+ "parameters": {
+  "mine_min_ratio": 0.6,
+  "mine_trigram_df_cap": 120,
+  "max_phrase_ayahs_for_pair_claims": 10,
+  "max_furooq_group": 10,
+  "furooq_groups_skipped": 5,
+  "waqar_ayah_offset": 1
+ },
+ "claims_by_source": {
+  "qul_matching": 3552,
+  "qul_phrase": 4029,
+  "waqar": 2392,
+  "srmdn_curated": 283,
+  "furooq": 994,
+  "text_mined": 1318
+ },
+ "pairs_by_family_and_confidence": {
+  "furooq": {
+   "high": 637,
+   "medium": 174,
+   "low": 112,
+   "rejected": 71
+  },
+  "qul": {
+   "low": 1280,
+   "high": 1114,
+   "rejected": 537,
+   "medium": 2724
+  },
+  "srmdn": {
+   "unverified": 35,
+   "low": 5,
+   "high": 237,
+   "medium": 6
+  },
+  "text": {
+   "high": 549,
+   "medium": 769
+  },
+  "waqar": {
+   "high": 997,
+   "low": 163,
+   "medium": 77,
+   "unverified": 144
+  }
+ },
+ "sources_manifest_sha256": "7debf192ce63fd22d996cf6c7e19353753fb8087fa1c7cb961bb93fde3eaa17a"
+}

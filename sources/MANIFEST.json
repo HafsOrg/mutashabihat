@@ -1,0 +1,128 @@
+{
+  "staged_on": "2026-10-01",
+  "sources": {
+    "waqar": {
+      "upstream": "https://github.com/Waqar144/Quran_Mutashabihat_Data.git",
+      "commit": "f35f6d5d6e7d07f44e6a652d868b298fcd12e318",
+      "license": "No formal license. README: free to use, attribution requested.",
+      "files": [
+        {
+          "path": "waqar/mutashabiha_data.json",
+          "sha256": "785d5efa266a19c405a449b0a01ebf34fe7dc09836d5b6ef301eae874db780f0",
+          "bytes": 163804
+        },
+        {
+          "path": "waqar/README.md",
+          "sha256": "5abc53ea86b644dd3cbf2f4a02175150b00b994c9993ced060ae97714b67a4b5",
+          "bytes": 2843
+        }
+      ]
+    },
+    "srmdn": {
+      "upstream": "https://github.com/srmdn/quran-mutashabihat.git",
+      "commit": "7a4cecb0e180625a862bd6886844a776d6c9cc7c",
+      "license": "Curated pairs CC BY 4.0; pending pairs (derived from Waqar) have no formal license.",
+      "files": [
+        {
+          "path": "srmdn/pairs.json",
+          "sha256": "8d6b44752a219809f01b65baee8f4b37a7fe3870de3ec0e714283d948386bb64",
+          "bytes": 242588
+        },
+        {
+          "path": "srmdn/README.md",
+          "sha256": "8e65e897da71a06c4d639dc09cd28d1d2495904de8bff9b23697c2437654771d",
+          "bytes": 3296
+        }
+      ]
+    },
+    "furooq": {
+      "upstream": "https://github.com/alinice1998/Furooq.git",
+      "commit": "e1d933f5b7a31c7a9b281007f5219eb10ad1cc5f",
+      "license": "MIT",
+      "files": [
+        {
+          "path": "furooq/similarities.json",
+          "sha256": "2f4db55c0e9e189b4404e8d1ebc556ad602e6e0a19eb496b034e556bb45838f5",
+          "bytes": 196486
+        },
+        {
+          "path": "furooq/quran.json",
+          "sha256": "2bd4d79898d0c1e3019c83cd9c9354e754e670a03faf9af99d42eea103b0baa8",
+          "bytes": 5248525
+        },
+        {
+          "path": "furooq/LICENSE",
+          "sha256": "e15a474f9f9e66de87bbcefbf9c4e0b4ef5d992fdb0f339b2788fd63a2e9f449",
+          "bytes": 1076
+        }
+      ]
+    },
+    "ilm": {
+      "upstream": "https://github.com/arriqaaq/ilm.git",
+      "commit": "a5192075cf08cabeb9f073a854218f5d7388f376",
+      "license": "Repo code Apache-2.0. The qul/ data files come from QUL; QUL data terms unconfirmed.",
+      "files": [
+        {
+          "path": "ilm/qpc-hafs.json",
+          "sha256": "93864197a949dac54f324875f41348875455bb138b7abdfde43daefe87230403",
+          "bytes": 1802750
+        },
+        {
+          "path": "ilm/phrases.json",
+          "sha256": "179e8ae3affdd42db9eb82e0748a6c8d7a9ff9e1e170a6c58a9146c21c0e94c6",
+          "bytes": 133899
+        },
+        {
+          "path": "ilm/matching-ayah.json",
+          "sha256": "ee2aac81622a3522aaf6badbf0454395bac903bd865baf5a0b1839afe38e1fac",
+          "bytes": 373367
+        },
+        {
+          "path": "ilm/LICENSE",
+          "sha256": "2165441a9b0e6246a670d9e6219b3f47acd6443afe55a5931288795ecfeb4629",
+          "bytes": 11341
+        }
+      ]
+    },
+    "qul": {
+      "upstream": "https://qul.tarteel.ai/resources/mutashabihat/73 (Mutashabihat ul Quran); matching-ayah from QUL's similar-ayah resource; qpc-hafs script from QUL",
+      "license": "UNCONFIRMED. QUL code is MIT, but no data license was found on the resource pages.",
+      "files": [
+        {
+          "path": "qul/phrases.json",
+          "sha256": "179e8ae3affdd42db9eb82e0748a6c8d7a9ff9e1e170a6c58a9146c21c0e94c6",
+          "bytes": 133899,
+          "archive": "Mutashabihat ul Quran.json.bz2",
+          "archive_sha256": "2ac8d84e90cf885980ee91756e77240c6bb69b701b4b202d3df282bd2a9181c1",
+          "archive_member_mtime": "2024-08-02"
+        },
+        {
+          "path": "qul/phrase_verses.json",
+          "sha256": "10a82f12653fff106994408d89c6a6ca5c31bef4af9fd20fd9327452711fe02c",
+          "bytes": 41256,
+          "archive": "Mutashabihat ul Quran.json.bz2",
+          "archive_sha256": "2ac8d84e90cf885980ee91756e77240c6bb69b701b4b202d3df282bd2a9181c1",
+          "archive_member_mtime": "2024-08-02"
+        },
+        {
+          "path": "qul/matching-ayah.json",
+          "sha256": "ee2aac81622a3522aaf6badbf0454395bac903bd865baf5a0b1839afe38e1fac",
+          "bytes": 373367,
+          "archive": "matching-ayah.json.zip",
+          "archive_sha256": "5337254eb98fe9c1547f35fdb9ce56eac49e2fb746167b5bef7bcd15c1e23497",
+          "archive_member_mtime": "2025-11-04"
+        },
+        {
+          "path": "qul/qpc-hafs.json",
+          "sha256": "93864197a949dac54f324875f41348875455bb138b7abdfde43daefe87230403",
+          "bytes": 1802750,
+          "via": "arriqaaq/ilm qul/qpc-hafs.json"
+        }
+      ],
+      "cross_checks": {
+        "phrases.json vs arriqaaq/ilm copy": "identical",
+        "matching-ayah.json vs arriqaaq/ilm copy": "identical"
+      }
+    }
+  }
+}

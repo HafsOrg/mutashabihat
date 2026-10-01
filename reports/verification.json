@@ -1,0 +1,460 @@
+{
+ "text_base": {
+  "ayahs_compared": 6236,
+  "ayahs_differing": 81,
+  "ayahs_unexplained": 0,
+  "unexplained_examples": [],
+  "words_total": 77430
+ },
+ "waqar_offset": {
+  "offset": 1,
+  "per_juz": {
+   "1": {
+    "links": 53,
+    "mean_ratio_offset_0": 0.086,
+    "mean_ratio_offset_1": 0.454
+   },
+   "2": {
+    "links": 54,
+    "mean_ratio_offset_0": 0.08,
+    "mean_ratio_offset_1": 0.367
+   },
+   "3": {
+    "links": 47,
+    "mean_ratio_offset_0": 0.074,
+    "mean_ratio_offset_1": 0.422
+   },
+   "4": {
+    "links": 42,
+    "mean_ratio_offset_0": 0.051,
+    "mean_ratio_offset_1": 0.348
+   },
+   "5": {
+    "links": 31,
+    "mean_ratio_offset_0": 0.073,
+    "mean_ratio_offset_1": 0.309
+   },
+   "6": {
+    "links": 45,
+    "mean_ratio_offset_0": 0.073,
+    "mean_ratio_offset_1": 0.295
+   },
+   "7": {
+    "links": 90,
+    "mean_ratio_offset_0": 0.057,
+    "mean_ratio_offset_1": 0.361
+   },
+   "8": {
+    "links": 127,
+    "mean_ratio_offset_0": 0.114,
+    "mean_ratio_offset_1": 0.393
+   },
+   "9": {
+    "links": 75,
+    "mean_ratio_offset_0": 0.084,
+    "mean_ratio_offset_1": 0.352
+   },
+   "10": {
+    "links": 55,
+    "mean_ratio_offset_0": 0.087,
+    "mean_ratio_offset_1": 0.33
+   },
+   "11": {
+    "links": 118,
+    "mean_ratio_offset_0": 0.059,
+    "mean_ratio_offset_1": 0.34
+   },
+   "12": {
+    "links": 83,
+    "mean_ratio_offset_0": 0.071,
+    "mean_ratio_offset_1": 0.39
+   },
+   "13": {
+    "links": 85,
+    "mean_ratio_offset_0": 0.051,
+    "mean_ratio_offset_1": 0.311
+   },
+   "14": {
+    "links": 98,
+    "mean_ratio_offset_0": 0.094,
+    "mean_ratio_offset_1": 0.478
+   },
+   "15": {
+    "links": 67,
+    "mean_ratio_offset_0": 0.028,
+    "mean_ratio_offset_1": 0.354
+   },
+   "16": {
+    "links": 81,
+    "mean_ratio_offset_0": 0.062,
+    "mean_ratio_offset_1": 0.375
+   },
+   "17": {
+    "links": 95,
+    "mean_ratio_offset_0": 0.062,
+    "mean_ratio_offset_1": 0.406
+   },
+   "18": {
+    "links": 71,
+    "mean_ratio_offset_0": 0.099,
+    "mean_ratio_offset_1": 0.379
+   },
+   "19": {
+    "links": 89,
+    "mean_ratio_offset_0": 0.117,
+    "mean_ratio_offset_1": 0.44
+   },
+   "20": {
+    "links": 129,
+    "mean_ratio_offset_0": 0.072,
+    "mean_ratio_offset_1": 0.394
+   },
+   "21": {
+    "links": 161,
+    "mean_ratio_offset_0": 0.056,
+    "mean_ratio_offset_1": 0.429
+   },
+   "22": {
+    "links": 104,
+    "mean_ratio_offset_0": 0.06,
+    "mean_ratio_offset_1": 0.373
+   },
+   "23": {
+    "links": 98,
+    "mean_ratio_offset_0": 0.071,
+    "mean_ratio_offset_1": 0.489
+   },
+   "24": {
+    "links": 126,
+    "mean_ratio_offset_0": 0.054,
+    "mean_ratio_offset_1": 0.419
+   },
+   "25": {
+    "links": 109,
+    "mean_ratio_offset_0": 0.056,
+    "mean_ratio_offset_1": 0.436
+   },
+   "26": {
+    "links": 62,
+    "mean_ratio_offset_0": 0.059,
+    "mean_ratio_offset_1": 0.4
+   },
+   "27": {
+    "links": 66,
+    "mean_ratio_offset_0": 0.023,
+    "mean_ratio_offset_1": 0.42
+   },
+   "28": {
+    "links": 64,
+    "mean_ratio_offset_0": 0.065,
+    "mean_ratio_offset_1": 0.469
+   },
+   "29": {
+    "links": 45,
+    "mean_ratio_offset_0": 0.052,
+    "mean_ratio_offset_1": 0.603
+   },
+   "30": {
+    "links": 22,
+    "mean_ratio_offset_0": 0.075,
+    "mean_ratio_offset_1": 0.641
+   }
+  }
+ },
+ "srmdn": {
+  "pending_pairs": 1359,
+  "pending_equal_to_waqar_uncorrected": 1359,
+  "pending_equal_to_waqar_corrected": 26,
+  "pending_text_evidence": {
+   "weak": 1280,
+   "strong": 55,
+   "moderate": 24
+  },
+  "dropped_pairs": 15,
+  "dropped_that_are_shifted_valid_waqar_pairs": 15,
+  "dropped_examples_shifted": [
+   [
+    "2:2",
+    "8:2",
+    "2:3",
+    "8:3"
+   ],
+   [
+    "2:5",
+    "36:9",
+    "2:6",
+    "36:10"
+   ],
+   [
+    "2:15",
+    "2:174",
+    "2:16",
+    "2:175"
+   ],
+   [
+    "2:21",
+    "14:31",
+    "2:22",
+    "14:32"
+   ]
+  ]
+ },
+ "null": {
+  "samples": 100000,
+  "strong": 80,
+  "moderate": 168,
+  "weak": 99752,
+  "fuzzy_run_at_least": {
+   "2": 2037,
+   "3": 232,
+   "4": 70,
+   "5": 23
+  }
+ },
+ "gold": [
+  {
+   "pair": "2:35 ~ 7:19",
+   "note": "Adam and his wife in Paradise",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "2:58 ~ 7:161",
+   "note": "enter this town",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "2:49 ~ 7:141",
+   "note": "Pharaoh's people: يذبحون / يقتلون أبناءكم",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "2:136 ~ 3:84",
+   "note": "we believe in Allah and what was revealed to us",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "6:151 ~ 17:31",
+   "note": "do not kill your children: نرزقكم وإياهم / نرزقهم وإياكم",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "3:126 ~ 8:10",
+   "note": "victory is only from Allah",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "2:62 ~ 5:69",
+   "note": "those who believed, the Jews and the Sabians",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "16:43 ~ 21:7",
+   "note": "We sent before you only men to whom We revealed",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "2:134 ~ 2:141",
+   "note": "identical verse",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "55:13 ~ 55:16",
+   "note": "refrain of Ar-Rahman",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "55:16 ~ 55:77",
+   "note": "refrain of Ar-Rahman",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "medium"
+  },
+  {
+   "pair": "77:15 ~ 77:19",
+   "note": "refrain of Al-Mursalat",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "26:8 ~ 26:67",
+   "note": "refrain of Ash-Shu'ara",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "medium"
+  },
+  {
+   "pair": "26:9 ~ 26:68",
+   "note": "refrain of Ash-Shu'ara",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "medium"
+  },
+  {
+   "pair": "54:17 ~ 54:22",
+   "note": "refrain of Al-Qamar",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "7:65 ~ 11:50",
+   "note": "Hud: اعبدوا الله ما لكم من إله غيره",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "7:73 ~ 11:61",
+   "note": "Salih: اعبدوا الله ما لكم من إله غيره",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "7:85 ~ 11:84",
+   "note": "Shu'ayb: اعبدوا الله ما لكم من إله غيره",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "7:80 ~ 29:28",
+   "note": "Lut: أتأتون الفاحشة",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "2:40 ~ 2:47",
+   "note": "remember My favour upon you",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "2:48 ~ 2:123",
+   "note": "fear a day when no soul will avail another",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  },
+  {
+   "pair": "3:133 ~ 57:21",
+   "note": "hasten to forgiveness and a Garden as wide as the heavens and earth",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "medium"
+  },
+  {
+   "pair": "12:22 ~ 28:14",
+   "note": "when he reached maturity We gave him judgment and knowledge",
+   "text_evidence": "strong",
+   "in_dataset": true,
+   "confidence": "high"
+  }
+ ],
+ "sources": [
+  {
+   "source": "qul_matching",
+   "pairs": 2336,
+   "strong": 1924,
+   "moderate": 249,
+   "weak": 163,
+   "kept": 2173,
+   "kept_only_by_this_family": 1377,
+   "agrees_with_another_family": 796
+  },
+  {
+   "source": "qul_phrase",
+   "pairs": 3737,
+   "strong": 2206,
+   "moderate": 1123,
+   "weak": 408,
+   "kept": 3362,
+   "kept_only_by_this_family": 2612,
+   "agrees_with_another_family": 750
+  },
+  {
+   "source": "waqar",
+   "pairs": 1381,
+   "strong": 997,
+   "moderate": 209,
+   "weak": 175,
+   "kept": 1381,
+   "kept_only_by_this_family": 578,
+   "agrees_with_another_family": 803
+  },
+  {
+   "source": "srmdn (curated)",
+   "pairs": 283,
+   "strong": 237,
+   "moderate": 9,
+   "weak": 37,
+   "kept": 283,
+   "kept_only_by_this_family": 50,
+   "agrees_with_another_family": 233
+  },
+  {
+   "source": "furooq",
+   "pairs": 994,
+   "strong": 767,
+   "moderate": 154,
+   "weak": 73,
+   "kept": 923,
+   "kept_only_by_this_family": 240,
+   "agrees_with_another_family": 683
+  }
+ ],
+ "completeness": {
+  "ratio>=0.8": {
+   "pairs": 761,
+   "listed_by_a_source": 761,
+   "in_dataset": 761
+  },
+  "0.6<=ratio<0.8": {
+   "pairs": 263,
+   "listed_by_a_source": 253,
+   "in_dataset": 263
+  }
+ },
+ "phrases": {
+  "phrases": 814,
+  "occurrences": 3558,
+  "by_status": {
+   "identical": 2159,
+   "variant": 1196,
+   "unrelated": 192,
+   "unanchored": 11
+  },
+  "shifted_by_reanchoring": 8
+ },
+ "tiers": {
+  "high": 1457,
+  "medium": 2874,
+  "low": 1526,
+  "unverified": 179
+ },
+ "rejected": 608,
+ "unverified_blocks": 3
+}
